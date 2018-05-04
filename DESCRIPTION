@@ -1,14 +1,11 @@
-Package: tidytemplate
-Title: 'pkgdown' Templates for Core 'Tidyverse' Packages
-Version: 0.0.0.9000
+Package: lifetemplate
+Title: 'pkgdown' Templates for Core Packages Developed by Jianfeng
+Version: 0.0.1
 Authors@R: c(
-    person("Hadley", "Wickham", , "hadley@rstudio.com", role = c("aut", "cre")),
-    person("Robby", "Shaver", role = "aut"),
-    person("RStudio", role = "cph")
+    person("Jianfeng", "Li", email = "lee_jianfeng@sjtu.edu.cn", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-2349-208X"))
   )
-Description: This is a private template for use by core tidyverse packages.
-   Please don't use for your own code.
+Description: Can be used by 'pkgdown' and as the template parameter.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 5.0.1.9000
+RoxygenNote: 6.0.1

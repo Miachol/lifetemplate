@@ -1,8 +1,6 @@
-# tidytemplate
+# lifetemplate
 
-tidytemplate provides a custom [pkgdown](http://pkgdown.r-lib.org) template for core tidyverse packages (i.e. packages hosted by the [tidyverse organisation](http://github.com/tidyverse)). Please don't use it for your own package.
-
-The theme is built on top of the [paper bootswatch theme](https://bootswatch.com/paper/).
+lifetemplate provides a custom [pkgdown](http://pkgdown.r-lib.org) template for tools developed by [Jianfeng Li](https://github.com/Miachol/configr). It was forked from [tidyverse/tidytemplate] and be modified.
 
 ## Notes
 
@@ -10,5 +8,5 @@ To regenerate `tidyverse.css`, first install [sass](http://sass-lang.com/install
 
 ```bash
 # gem install sass
-sass scss/tidyverse.scss inst/pkgdown/assets/tidyverse.css
+sass scss/life.scss inst/pkgdown/assets/life.css
 ```
